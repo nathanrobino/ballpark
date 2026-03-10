@@ -13,3 +13,6 @@ title: "Regional Consumption Responses and the Aggregate Fiscal Multiplier -- Ba
 
 ```{include} Dupor2023-bn_subsequent-literature.md
 ```
+
+```{include} Dupor2023-bn_bellman-stages.ipynb
+```
