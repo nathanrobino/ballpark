@@ -1,6 +1,6 @@
 version: 1
 project:
-  title: "Population Aging and the Transmission of Monetary Policy to Consumption — Ballpark Entry"
+  title: "Refinancing and the transmission of monetary policy to consumption — Ballpark Entry"
   bibliography:
     - self.bib
     - references.bib
@@ -11,4 +11,4 @@ project:
     - file: PopAgingMPtransmission_summary.ipynb
     - file: PopAgingMPtransmission_subsequent-literature.ipynb
 site:
-  title: "Population Aging and the Transmission of Monetary Policy to Consumption — Ballpark Entry"
+  title: "Refinancing and the transmission of monetary policy to consumption — Ballpark Entry"
